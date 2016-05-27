@@ -1,0 +1,17 @@
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:38 AM] Emulator config file set to \\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\FirstCloudProject\FirstCloudProject\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:38 AM] DiagnosticsStoreRootPath set to: C:\Users\Todd Meinershagen\AppData\Local\dftmp\Resources\98f7ddd1-69a2-4228-8903-3c8f21e129df
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Loading config file: \\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\FirstCloudProject\FirstCloudProject\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Config file to read: \\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\FirstCloudProject\FirstCloudProject\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Checking VM Type
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Emulator config file set to \\vmware-host\Shared Folders\Documents\Visual Studio 2015\Projects\FirstCloudProject\FirstCloudProject\csx\Debug\roles\WorkerRole1\approot\diagnostics.wadcfgx
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Extension set to Emulator Mode
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Reading XML configuration file
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Bypassing private config decryption
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:39 AM] Stopping the running plugin, if any
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:40 AM] No DiagnosticsPlugin is running.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:40 AM] Killing any DiagnosticsPlugin that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:41 AM] Killing any MonAgentHost that might remain.
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:41 AM] Diagnostics plugin stopped successfully
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:41 AM] Resetting DiagnosticPlugin
+DiagnosticsPluginLauncher.exe Error: 0 : [5/22/2016 9:32:45 AM] DiagnosticsPlugin launch failed with exit code -106
+DiagnosticsPluginLauncher.exe Information: 0 : [5/22/2016 9:32:45 AM] DiagnosticPlugin exited with code -106
